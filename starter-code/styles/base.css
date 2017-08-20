@@ -18,8 +18,10 @@ hr {
   width: 80%;
 }
 
+
 /*TEXT STYLES
 =======================================*/
+
 p {
   font-size: 1em;
 }
@@ -27,6 +29,7 @@ p {
 address {
   display: inline-block;
 }
+
 
 /*LINK STYLES
 =======================================*/
@@ -40,9 +43,15 @@ a:hover, a:focus {
   color: #29506D;
 }
 
-a:visited {
-}
+a:visited {}
+
 
 /*FORM STYLES
 =======================================*/
-/*TODO: Add the CSS needed to style the form*/
+
+
+/*//*TODO: DONE Add the CSS needed to style the form//*/
+
+label {
+  display: block;
+}
