@@ -54,9 +54,9 @@
 
 /*TODO: DONE Add CSS for the "article-export" portion of our new page*/
 
-.article-export {
+.articles-export {
   font-size: 1.0em;
-  font-style: : italic;
+  font-style: italic;
 }
 
 @media only screen and (min-width: 640px) {
